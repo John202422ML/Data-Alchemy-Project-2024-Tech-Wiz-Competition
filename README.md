@@ -7,9 +7,9 @@ Step 1: Clone the Repository
 
 Start by cloning the project repository to your local machine:
 
-https://github.com/John202422ML/Data-Alchemists-Tech-Wiz-Aptech-Competition.git
+https://github.com/John202422ML/Data-Alchemy-Project-2024-Tech-Wiz-Competition.git
 
-cd leaf-disease-detection
+
 
 Step 2: Create and Activate a Virtual Environment
 
@@ -33,11 +33,14 @@ Once your virtual environment is activated, install the necessary dependencies l
 
 pip install -r requirements.txt
 
+
 Step 4: Run the Application
 
 After the dependencies are installed, run the Flask application to start the server:
 
-cd app python app.py
+cd app 
+
+python app.py
 
 Step 5: Access the Application
 
